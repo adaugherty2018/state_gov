@@ -9,3 +9,13 @@ Maine SOS did not count qualified 'emergency utility workers' and 'uniformed and
 
 The New Hampshire Secretary of State's election results page is undergoing maintenance at the time of this writing and only has official results posted for 2020.
 - New Hampshire's 2014 public numbers exclude Grafton county's third-party votes (69 total)
+
+
+Issues:
+
+
+Missing
+- Alaska
+- Kansas
+- Rhode Island
+- Vermont
