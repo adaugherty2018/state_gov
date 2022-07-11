@@ -11,3 +11,12 @@ Nebraska
 Other issues:
 Lousiana - Reporting results but no gubernatorial election in 2018
 North Dakota
+
+
+Missing:
+Arizona
+Maine
+Nevada
+New Hampshire
+New Mexico
+New York
