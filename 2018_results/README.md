@@ -14,9 +14,9 @@ North Dakota
 
 
 Missing:
-Arizona
-Maine
-Nevada
-New Hampshire
-New Mexico
-New York
+- Arizona
+- Maine
+- Nevada
+- New Hampshire
+- New Mexico
+- New York
