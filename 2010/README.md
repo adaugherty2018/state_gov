@@ -4,3 +4,9 @@ Massachusetts over tabulated Hampden County in the digital results compared to t
 
 Question on New York as to whether to count Independence and Working Families toward Democratic Party
 
+Missing:
+- Alaska
+- Connecticut
+- Kansas
+- Rhode Island
+- Vermont
