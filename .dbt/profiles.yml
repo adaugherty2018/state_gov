@@ -18,4 +18,4 @@ state_gov:
       schema: "scratch"
     prod:
       <<: *database_config
-      schema: "state_data"
+      schema: "state_gov"

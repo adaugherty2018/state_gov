@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: state_gov
+    tables:
+      - name: states_with_elections
+        description: >
+          States with regularly scheduled gubernatorial elections
+      - nama: election_results_2020
+        description: >
+          2020 gubernatorial election results
+      - nama: election_results_2018
+        description: >
+          2018 gubernatorial election results
+      - nama: election_results_2016
+        description: >
+          2016 gubernatorial election results
+      - nama: election_results_2014
+        description: >
+          2014 gubernatorial election results
+      - nama: election_results_2012
+        description: >
+          2012 gubernatorial election results
