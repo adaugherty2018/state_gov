@@ -1,0 +1,19 @@
+state_gov:
+  target: default # to run dbt with a different target use the `--target` option
+  outputs:
+    default: &database_config
+      type: redshift
+      host: "{{ env_var('REDSHIFT_HOST') }}"
+      user: "{{ env_var('REDSHIFT_CREDENTIAL_USERNAME') }}" # TODO swap this to a bot
+      pass: "{{ env_var('REDSHIFT_CREDENTIAL_PASSWORD') }}"
+      dbname: "{{ env_var('REDSHIFT_DATABASE', 'dev') }}"
+      schema: "scratch"
+      port: 5432
+      threads: 4
+      schema: "scratch"
+    dev:
+      <<: *database_config
+      schema: "scratch"
+    prod:
+      <<: *database_config
+      schema: "state_data"
