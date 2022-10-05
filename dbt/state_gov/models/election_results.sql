@@ -1,12 +1,12 @@
 SELECT *
 FROM {{ source('election_results_2020')}}
 UNION ALL
-(SELECT * FROM {{ source('election_results_2018')}})
+(SELECT * FROM {{ source('state_gov','election_results_2018')}})
 UNION ALL
-(SELECT * FROM {{ source('election_results_2016')}})
+(SELECT * FROM {{ source('state_gov','election_results_2016')}})
 UNION ALL
-(SELECT * FROM {{ source('election_results_2014')}})
+(SELECT * FROM {{ source('state_gov','election_results_2014')}})
 UNION ALL
-(SELECT * FROM {{ sournce('election_results_2012')}})
+(SELECT * FROM {{ sournce('state_gov','election_results_2012')}})
 UNION ALL
-(SELECT * FROM {{ sournce('election_results_2010')}})
+(SELECT * FROM {{ sournce('state_gov','election_results_2010')}})

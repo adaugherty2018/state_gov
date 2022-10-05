@@ -21,3 +21,22 @@ sources:
       - nama: election_results_2012
         description: >
           2012 gubernatorial election results
+
+  - name: political
+    tables:
+      - name: fips
+        description: >
+          FIPS codes for states and counties. 
+          See https://www.census.gov/library/reference/code-lists/ansi.html
+      - name: educational_attainment
+        description: >
+          Educational attainment estimates as provided by the Census. 
+          See https://www.census.gov/topics/education/educational-attainment.html
+      - name: income
+        description: >
+          Income estimates as provided by the Census Bureau. 
+          See https://www.census.gov/topics/income-poverty/income.html
+      - name: race
+        description: >
+          Race estimates as provided by the Census Bureau.
+          See https://www.census.gov/topics/population/race.html
