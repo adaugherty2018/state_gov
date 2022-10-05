@@ -1,4 +1,6 @@
-# state_gov
+# State Gov Elections
+
+## This repository primarily contains a DBT project for compiling election data in the leadup to the 2022 elecitons.
 
 Missing:
 
