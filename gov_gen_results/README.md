@@ -1,4 +1,21 @@
-# state_gov_2014
+# Governor General Election Results Archive (2010-Present)
+
+### Archiving gubernatorial general election results by party for the years 2010 - 2020. All results have been confirmed against the respective Secretary of States' website with any discrepancies and relevant documentation. 
+
+## 2010 Election Results
+
+### Notes
+- Massachussetts
+    - Over-tabulated Hampden County in the digital results compared to the PDF data source
+
+### Missing:
+- Alaska
+- Connecticut
+- Kansas
+- Rhode Island
+- Vermont
+
+## 2014 Election Results
 
 All data was collected from the website of each applicable Secretary of State.
 
@@ -19,3 +36,27 @@ Missing
 - Kansas
 - Rhode Island
 - Vermont
+
+
+### 2018 Election Results
+
+Result discrepancies:
+Alabama
+Connecticut
+Hawaii
+Massachusetts
+Minnesota (small)
+Nebraska
+
+Other issues:
+Lousiana - Reporting results but no gubernatorial election in 2018
+North Dakota
+
+
+Missing:
+- Arizona
+- Maine
+- Nevada
+- New Hampshire
+- New Mexico
+- New York
